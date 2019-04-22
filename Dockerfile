@@ -1,1 +1,1 @@
-docker.io/grafana/grafana:4.6.3
+FROM docker.io/grafana/grafana:6.0.1
